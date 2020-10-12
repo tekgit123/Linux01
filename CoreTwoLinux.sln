@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreTwoLinux", "CoreTwoLinux\CoreTwoLinux.csproj", "{21A25DAE-0B01-456C-BE82-0AEBFF083761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A25DAE-0B01-456C-BE82-0AEBFF083761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A25DAE-0B01-456C-BE82-0AEBFF083761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A25DAE-0B01-456C-BE82-0AEBFF083761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A25DAE-0B01-456C-BE82-0AEBFF083761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59943E14-756C-466D-BA6F-112A9DF104D7}
+	EndGlobalSection
+EndGlobal
